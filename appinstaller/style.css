@@ -1,0 +1,31 @@
+body {
+    background-image: url(wallpaper.png);
+}
+p {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+}
+h1 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+}
+div.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 7px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+}
