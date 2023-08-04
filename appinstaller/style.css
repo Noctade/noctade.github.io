@@ -26,7 +26,7 @@ div.text {
     display:flex;
     flex-direction: column;
     margin-bottom: 15px;
-    clear: both;
+    overflow: hidden;
 }
 
 a {
