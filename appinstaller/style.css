@@ -38,7 +38,7 @@ div.text1 {
     padding: 15px;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 7px;
-    position: absolute;
+    position: relative;
     left: 50%;
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
@@ -58,7 +58,7 @@ div.text2 {
     padding: 15px;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 7px;
-    position: absolute;
+    position: relative;
     left: 50%;
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
