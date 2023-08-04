@@ -25,6 +25,7 @@ div.text {
     transform: translate(-50%, -50%);
     display:flex;
     flex-direction: column;
+    margin-bottom: 15px;
 }
 
 a {
