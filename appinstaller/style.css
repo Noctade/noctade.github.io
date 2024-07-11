@@ -18,7 +18,7 @@ p, ul, li, h1, h2, a {
     align-items: center;
 }
 
-.text, .text1, .text2, .text3, .text4, .text5 {
+.text {
     display: inline-block;
     text-align: left;
     padding: 15px;
@@ -26,8 +26,4 @@ p, ul, li, h1, h2, a {
     border-radius: 7px;
     margin-bottom: 35px;
     white-space: nowrap;
-}
-
-a {
-    color: white;
 }
