@@ -18,7 +18,7 @@ p, ul, li, h1, h2, a {
     align-items: center;
 }
 
-.text, .text1, .text2 {
+.text, .text1, .text2, .text3, .text4, .text5 {
     display: inline-block;
     text-align: left;
     padding: 15px;
