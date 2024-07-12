@@ -1,16 +1,20 @@
 body {
     background-image: url(wallpaper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    margin: 10;
 }
-p {
-    color: white;
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
-}
-h1 {
+
+p, ul, li, h1, h2, a {
     color: white;
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif
 }
 
-div.text {
+.text {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,9 +28,4 @@ div.text {
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-}
-
-a {
-    color: white;
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
 }
